@@ -2,6 +2,9 @@
 
 Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
 
+Diseño orientado al mobile first
+
+
 PNG
 Poco compacto;
 Mantiene la calidad de la imagen;
